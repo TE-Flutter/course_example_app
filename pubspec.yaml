@@ -34,6 +34,7 @@ dependencies:
   soar_quest:
     git:
       url: https://github.com/ElBatanony/soar_quest
+  firebase_core:
 
 
   # The following adds the Cupertino Icons font to your application.
